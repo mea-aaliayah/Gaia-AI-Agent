@@ -1,4 +1,4 @@
-# Second-Brain-
+# Gaia-AI-Agent
 README.md template
 This is the second brain of Aaliayah.
 Before any task, read in this order:
